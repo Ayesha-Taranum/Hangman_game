@@ -34,5 +34,9 @@ To get started with this project, follow these steps:
 2. Styling: Adjust the styles in tailwind.config.js and component CSS files to fit your design preferences.
 
 
+## Technologies Used 🛠️
 
+- TypeScript 🟦
+- React ⚛️
+- Tailwind CSS 🌈
 
